@@ -1,0 +1,12 @@
+Membuat sebuah tampilan website yang dapat menampilkan profil singkat kita bisa menunjukan terkait foto
+profil, nama, motto, serta project apa saja yang pernah kita buat berikut list task
+ 1. Menyiapkan text editor
+ 2. Membuat judul/Heading
+ 3. Membuat paragraph
+ 4. Membuat button Contact
+ 5. Membuat link Download CV
+ 6. Membuat Media sosial menu
+ 7. Membuat card container
+ 8. Menambahkan gambar
+ 9. Menambahkan Header 
+ 10. Menambahkan title/keterangan
